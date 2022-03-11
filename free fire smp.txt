@@ -1,0 +1,5 @@
+{
+	"ip":"aklegent40.aternos.me",
+	"port": " 36571",
+	"name": "free fire smp"
+}
